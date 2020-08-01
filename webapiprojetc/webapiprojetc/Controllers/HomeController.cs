@@ -14,6 +14,7 @@ namespace webapiprojetc.Controllers
             //int 
             //Next line
             //comment by ck
+            int a = 100;
             ViewBag.Title = "Home Page";
 
             return View();
